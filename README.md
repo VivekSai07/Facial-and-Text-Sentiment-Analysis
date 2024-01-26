@@ -1,4 +1,4 @@
-# Facial-and-Text-Sentiment-Analysis
+# SentimentBlend: Unified Facial and Text Emotion Analysis
 
 ## Overview
 This project harnesses the capabilities of machine learning, employing the Support Vector Machine (SVM) algorithm, to accurately predict facial emotions. The facial emotion predictor has been meticulously trained on a dataset consisting of manually prepared images for various emotions, each standardized to a resolution of 200x200 pixels. The dataset includes 68 facial landmarks, extracted using the dlib library, and corresponding class labels. The emotions covered include anger, happiness, sadness, contempt, fear, neutrality, surprise, and disgust.
