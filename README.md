@@ -3,9 +3,12 @@
 ## Overview
 This project harnesses the capabilities of machine learning, employing the Support Vector Machine (SVM) algorithm, to accurately predict facial emotions. The facial emotion predictor has been meticulously trained on a dataset consisting of manually prepared images for various emotions, each standardized to a resolution of 200x200 pixels. The dataset includes 68 facial landmarks, extracted using the dlib library, and corresponding class labels. The emotions covered include anger, happiness, sadness, contempt, fear, neutrality, surprise, and disgust.
 
+In addition to facial sentiment analysis, the project incorporates text sentiment analysis. The text sentiment analysis component utilizes natural language processing techniques to determine sentiment in textual data. This dual approach enhances the project's capabilities, making it suitable for applications in psychology research, marketing, and virtual reality experiences.
+
 ## Features
 - Emotion Classification: Accurate identification of emotions in facial expressions.
 - SVM Algorithm: Utilizes the Support Vector Machine algorithm for robust prediction.
+- Text Sentiment Analysis: Natural language processing techniques for sentiment analysis in textual data.
 - Dataset Preparation: Images manually collected, standardized, and annotated with 68 facial landmarks.
 - Versatile Applications: Potential uses in psychology research, marketing, and virtual reality experiences.
 
